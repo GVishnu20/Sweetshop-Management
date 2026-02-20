@@ -5,13 +5,6 @@ The application supports **public browsing**, **user purchases**, and **admin ma
 
 ---
 
-## 🚀 Live Demo
-
-- **Frontend (Vercel):** https://sweet-shop-management-one.vercel.app  
-- **Backend (Render):** https://sweet-shop-management-w0qq.onrender.com
-
----
-
 ## 🧰 Tech Stack
 
 ### Frontend
@@ -56,27 +49,6 @@ The application supports **public browsing**, **user purchases**, and **admin ma
 ---
 
 
----
-
-## 🖥️ UI
-
-### Sweet Listing(Admin & User)
-![Home Page](frontend/sweet-shop-management-one.vercel.app_%20%281%29.png)
-
-### Register(User)
-![Filters](frontend/sweet-shop-management-one.vercel.app_%20%283%29.png)
-
-### Add Sweet(Admin)
-![Cart Page](frontend/sweet-shop-management-one.vercel.app_%20%284%29.png)
-
-### Inventory List(Admin)
-![Checkout](frontend/sweet-shop-management-one.vercel.app_%20%285%29.png)
-
-### Orders tracking(Admin)
-![Admin Dashboard](frontend/sweet-shop-management-one.vercel.app_%20%286%29.png)
-
-### Dashboard (admin)
-![Inventory](frontend/sweet-shop-management-one.vercel.app_%20%287%29.png)
 
 ---
 
@@ -110,6 +82,6 @@ The application supports **public browsing**, **user purchases**, and **admin ma
 
 ## 👨‍💻 Author
 
-Aviresh Laxman Sai  
+Vishnu Vardhan
 
 
