@@ -73,7 +73,6 @@ The application supports **public browsing**, **user purchases**, and **admin ma
 - Order status tracking
 - Invoice generation
 - Advanced analytics
-- Test Driven Development (Jest + Supertest)
 
 ---
 
