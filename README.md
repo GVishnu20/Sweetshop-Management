@@ -49,9 +49,6 @@ The application supports **public browsing**, **user purchases**, and **admin ma
 ---
 
 
-
----
-
 ## 🔐 Authentication & Security
 
 - JWT-based authentication
